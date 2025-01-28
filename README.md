@@ -1,2 +1,5 @@
 # PDF-Password-Protection
-When a PDF file is password-protected, the user must provide the correct password to open, view, or modify the file, depending on the permissions set during the encryption process.
+PDF password protection is a way to secure a PDF document by requiring a password to open or perform certain actions on the file. There are two main types of passwords:
+
+User Password: This is the password required to open and view the document.
+Owner Password: This is for the document owner and allows them to modify permissions, such as printing or copying the content.
